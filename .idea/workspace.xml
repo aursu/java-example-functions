@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c4fdd829-2dbd-456a-a47c-d7550a7d58c0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/aursu/funcntions/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/github/aursu/funcntions/MainTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TestNG Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="cryengine-stage" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Hiv1iE5sDDqeDt1iSfAHi74Sya" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "TestNG",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG": "",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.39885056",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.github.aursu.funcntions" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MainTest.testAvgY" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="funcntions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.aursu.funcntions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.github.aursu.funcntions" />
+      <option name="MAIN_CLASS_NAME" value="com.github.aursu.funcntions.MainTest" />
+      <option name="METHOD_NAME" value="testAvgY" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest.testMaxY" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="funcntions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.aursu.funcntions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.github.aursu.funcntions" />
+      <option name="MAIN_CLASS_NAME" value="com.github.aursu.funcntions.MainTest" />
+      <option name="METHOD_NAME" value="testMaxY" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest.testMinY" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="funcntions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.aursu.funcntions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.github.aursu.funcntions" />
+      <option name="MAIN_CLASS_NAME" value="com.github.aursu.funcntions.MainTest" />
+      <option name="METHOD_NAME" value="testMinY" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest.testSumY" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="funcntions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.aursu.funcntions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.github.aursu.funcntions" />
+      <option name="MAIN_CLASS_NAME" value="com.github.aursu.funcntions.MainTest" />
+      <option name="METHOD_NAME" value="testSumY" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest.testTabF1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="funcntions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.aursu.funcntions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.github.aursu.funcntions" />
+      <option name="MAIN_CLASS_NAME" value="com.github.aursu.funcntions.MainTest" />
+      <option name="METHOD_NAME" value="testTabF1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.MainTest.testMinY" />
+        <item itemvalue="TestNG.MainTest.testAvgY" />
+        <item itemvalue="TestNG.MainTest.testSumY" />
+        <item itemvalue="TestNG.MainTest.testMaxY" />
+        <item itemvalue="TestNG.MainTest.testTabF1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4fdd829-2dbd-456a-a47c-d7550a7d58c0" name="Changes" comment="" />
+      <created>1668780505121</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668780505121</updated>
+      <workItem from="1668780506450" duration="1249000" />
+      <workItem from="1668783196381" duration="41729000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XPathView.XPathProjectComponent">
+    <history />
+    <find-history />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/funcntions$MainTest_testF1.ic" NAME="MainTest.testF1 Coverage Results" MODIFIED="1668988403061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.github.aursu.funcntions.*</FILTER>
+    </SUITE>
+  </component>
+</project>
